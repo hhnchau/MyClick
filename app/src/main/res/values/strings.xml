@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyClick</string>
+    <string name="accessibility_service_id">kingpesdev.firebaseapp.myclick/.service.AutoClickService</string>
+</resources>
